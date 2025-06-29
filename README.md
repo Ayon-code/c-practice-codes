@@ -15,9 +15,10 @@ gcc filename.c -o output
 ./output
 ```
 Example
+```bash
 gcc right_aligned_stars.c -o stars
 ./stars
-
+```
 ## About me :
 I am a student of class 11. Currently, I'm doing it out of passion.
 
