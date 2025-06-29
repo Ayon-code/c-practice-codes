@@ -1,12 +1,5 @@
 #include <stdio.h>
-/*Star play
-              
-              *
-          *  *
-      *  *  *
-  *  *  *  *
-  
-*/
+
 int main () {
 	printf("Enter the number of row :");
 	int a,b=0;
